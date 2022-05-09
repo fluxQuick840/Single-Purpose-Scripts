@@ -37,5 +37,7 @@ and I'll be presented with the name of the most recently modified python file, w
 I wrote this script to enforce a bedtime on myself. During the summertime when I was still in high school, I'd stay up way late on the phone or the computer doing who knows what online. And I could never pull myself away, so I made the computer do that for me.  
 I wrote this script which would warn me one hour, thirty minutes, then five minutes, then one minute before my cutoff time, and when that happened, I would have it execute a command that disabled my network driver. Just in case I got smart and tried to turn it back on, I had the program try to access google every so offten. If it could, it ran the command again.  
 Then at a specified time in the morning, the script would run a command to turn my wireless card back on, and I would have a good night's sleep. If you struggle with anything similar, this may help.
+### Bible
+This is a script that downloads the New International Version of the bible from MIT. It requests each html page, creates a directory for each book, and names each chapter nicely and neatly. It even numbers the books so they're all in order, from Genesis to Revelation. 
 ## Questions? Comments? 
 [Contact Me](mailto:quantomrush34@icloud.com)
